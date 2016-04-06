@@ -5,11 +5,7 @@ This is a file.
 This is a file.
 This is a file.
 This is a file.
-This is a file.
-This is a file.
-This is a file.
-This is a file.
-This is a file.
+Blank Line
 This is a file.
 This is a file.
 This is a file.
